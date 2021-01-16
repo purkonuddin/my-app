@@ -74,9 +74,12 @@ The Movie Db: [https://www.loom.com/share/cf7b64fbf9f541589804b09830aab049](http
 
 Registarion Form: [https://www.loom.com/share/59954e6a52e14638bb02ffab1cd1a20d](https://www.loom.com/share/59954e6a52e14638bb02ffab1cd1a20d)
 
+on mobile device:[https://www.loom.com/share/c9788760719840729222114288d2e3aa](https://www.loom.com/share/c9788760719840729222114288d2e3aa)
+
 Screen Scapture: 
-[https://github.com/purkonuddin/my-app/blob/master/src/assets/screencapture/FireShot%20Capture%20006%20-%20React%20App%20-%20localhost.png]
 
-[https://github.com/purkonuddin/my-app/blob/master/src/assets/screencapture/FireShot%20Capture%20018%20-%20React%20App%20-%20localhost.png]
+![https://github.com/purkonuddin/my-app/blob/master/src/assets/screencapture/FireShot%20Capture%20006%20-%20React%20App%20-%20localhost.png](https://github.com/purkonuddin/my-app/blob/master/src/assets/screencapture/FireShot%20Capture%20006%20-%20React%20App%20-%20localhost.png) 
 
-[https://github.com/purkonuddin/my-app/blob/master/src/assets/screencapture/FireShot%20Capture%20023%20-%20React%20App%20-%20localhost.png]
+![https://github.com/purkonuddin/my-app/blob/master/src/assets/screencapture/FireShot%20Capture%20018%20-%20React%20App%20-%20localhost.png](https://github.com/purkonuddin/my-app/blob/master/src/assets/screencapture/FireShot%20Capture%20018%20-%20React%20App%20-%20localhost.png)
+
+![https://github.com/purkonuddin/my-app/blob/master/src/assets/screencapture/FireShot%20Capture%20023%20-%20React%20App%20-%20localhost.png](https://github.com/purkonuddin/my-app/blob/master/src/assets/screencapture/FireShot%20Capture%20023%20-%20React%20App%20-%20localhost.png)
